@@ -1,0 +1,165 @@
+[22-Jun-2023 13:11:09 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/bugerifg/apply.bugemauniv.ac.ug/application.php:357
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/application.php(357): mysqli_connect()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/application.php on line 357
+[22-Jun-2023 13:11:13 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/bugerifg/apply.bugemauniv.ac.ug/application.php:357
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/application.php(357): mysqli_connect()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/application.php on line 357
+[22-Jun-2023 13:13:45 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'adminapply'@'localhost' (using password: YES) in /home/bugerifg/apply.bugemauniv.ac.ug/application.php:357
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/application.php(357): mysqli->__construct()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/application.php on line 357
+[22-Jun-2023 13:13:47 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'adminapply'@'localhost' (using password: YES) in /home/bugerifg/apply.bugemauniv.ac.ug/application.php:357
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/application.php(357): mysqli->__construct()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/application.php on line 357
+[22-Jun-2023 13:13:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'adminapply'@'localhost' (using password: YES) in /home/bugerifg/apply.bugemauniv.ac.ug/application.php:357
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/application.php(357): mysqli->__construct()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/application.php on line 357
+[22-Jun-2023 13:13:50 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'adminapply'@'localhost' (using password: YES) in /home/bugerifg/apply.bugemauniv.ac.ug/application.php:357
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/application.php(357): mysqli->__construct()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/application.php on line 357
+[22-Jun-2023 13:14:51 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'adminapply'@'localhost' (using password: YES) in /home/bugerifg/apply.bugemauniv.ac.ug/application.php:357
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/application.php(357): mysqli->__construct()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/application.php on line 357
+[22-Jun-2023 13:18:00 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'adminapply'@'localhost' (using password: YES) in /home/bugerifg/apply.bugemauniv.ac.ug/fetch_courses.php:3
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/fetch_courses.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/fetch_courses.php on line 3
+[22-Jun-2023 13:18:10 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'adminapply'@'localhost' (using password: YES) in /home/bugerifg/apply.bugemauniv.ac.ug/fetch_courses.php:3
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/fetch_courses.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/fetch_courses.php on line 3
+[23-Jun-2023 03:06:52 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Democratic Republic', 'Passport', 'ZN674456', 'SDA', 'Main Campus', 'Regula...' at line 2 in /home/bugerifg/apply.bugemauniv.ac.ug/db.php:103
+Stack trace:
+#0 /home/bugerifg/apply.bugemauniv.ac.ug/db.php(103): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 103
+[26-Jun-2023 04:31:23 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 19
+[26-Jun-2023 04:34:15 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 19
+[26-Jun-2023 04:36:39 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 19
+[26-Jun-2023 04:54:09 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 19
+[26-Jun-2023 04:56:30 America/New_York] PHP Warning:  Undefined array key "username" in /home/bugerifg/apply.bugemauniv.ac.ug/login.php on line 26
+[26-Jun-2023 04:56:30 America/New_York] PHP Warning:  Undefined array key "password" in /home/bugerifg/apply.bugemauniv.ac.ug/login.php on line 27
+[26-Jun-2023 04:56:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/login.php on line 35
+[26-Jun-2023 04:57:27 America/New_York] PHP Warning:  Undefined array key "username" in /home/bugerifg/apply.bugemauniv.ac.ug/login.php on line 26
+[26-Jun-2023 04:57:27 America/New_York] PHP Warning:  Undefined array key "password" in /home/bugerifg/apply.bugemauniv.ac.ug/login.php on line 27
+[26-Jun-2023 04:57:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/login.php on line 35
+[28-Jun-2023 05:53:01 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 19
+[29-Jun-2023 08:29:29 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 25
+[29-Jun-2023 08:33:05 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 25
+[04-Jul-2023 07:07:03 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 18
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "date_of_birth" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 19
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "email" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 20
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "mobile_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 21
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "gender" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 22
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 23
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "id_type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 24
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 25
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "religion" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 26
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "location" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 27
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "time" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 28
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "school" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "level" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 30
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 32
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "bu" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 33
+[04-Jul-2023 07:07:04 America/New_York] PHP Warning:  Undefined array key "kabu" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 34
+[04-Jul-2023 07:29:28 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 25
+[04-Jul-2023 07:32:50 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 25
+[04-Jul-2023 07:32:50 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[06-Jul-2023 03:46:12 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 23
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 18
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "date_of_birth" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 19
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "email" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 20
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "mobile_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 21
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "gender" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 22
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 23
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "id_type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 24
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 25
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "religion" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 26
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "location" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 27
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "time" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 28
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "school" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "level" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 30
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 32
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "bu" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 33
+[06-Jul-2023 03:46:51 America/New_York] PHP Warning:  Undefined array key "kabu" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 34
+[06-Jul-2023 03:48:33 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 23
+[10-Jul-2023 14:39:07 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[22-Jul-2023 09:29:23 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[22-Jul-2023 14:21:57 America/New_York] PHP Warning:  Undefined array key "id_type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 30
+[24-Jul-2023 09:11:37 America/New_York] PHP Warning:  Undefined array key "bu" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 39
+[28-Jul-2023 03:43:42 America/New_York] PHP Warning:  Undefined array key "id_type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 30
+[28-Jul-2023 03:44:59 America/New_York] PHP Warning:  Undefined array key "id_type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 30
+[28-Jul-2023 04:17:00 America/New_York] PHP Warning:  Undefined array key "school" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 35
+[28-Jul-2023 04:17:00 America/New_York] PHP Warning:  Undefined array key "level" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 36
+[28-Jul-2023 04:17:00 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[28-Jul-2023 04:37:59 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[28-Jul-2023 04:45:37 America/New_York] PHP Warning:  Undefined array key "type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 38
+[29-Jul-2023 04:18:05 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[29-Jul-2023 04:18:05 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[29-Jul-2023 04:18:05 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[29-Jul-2023 04:18:49 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[29-Jul-2023 04:18:49 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[29-Jul-2023 04:18:49 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[29-Jul-2023 04:19:06 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[29-Jul-2023 04:19:06 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[29-Jul-2023 04:19:06 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[29-Jul-2023 13:06:38 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[29-Jul-2023 15:30:00 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[30-Jul-2023 14:26:22 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[30-Jul-2023 14:26:46 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[30-Jul-2023 14:28:27 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[30-Jul-2023 15:21:39 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[31-Jul-2023 03:09:59 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[31-Jul-2023 03:09:59 America/New_York] PHP Warning:  Undefined array key "level" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 36
+[31-Jul-2023 03:09:59 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[31-Jul-2023 03:11:01 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[31-Jul-2023 03:11:01 America/New_York] PHP Warning:  Undefined array key "level" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 36
+[31-Jul-2023 03:11:01 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[31-Jul-2023 04:09:54 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[31-Jul-2023 04:38:08 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[31-Jul-2023 05:02:15 America/New_York] PHP Warning:  Undefined array key "type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 38
+[01-Aug-2023 05:14:47 America/New_York] PHP Warning:  Undefined array key "level" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 36
+[01-Aug-2023 05:14:47 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[01-Aug-2023 08:25:14 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[01-Aug-2023 17:15:54 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[02-Aug-2023 03:29:26 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 24
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "date_of_birth" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 25
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "email" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 26
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "mobile_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 27
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "gender" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 28
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "country" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 29
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "id_type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 30
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "id_number" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 31
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "religion" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 32
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "location" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 33
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "time" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 34
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "school" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 35
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "level" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 36
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "course" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 37
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "type" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 38
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "bu" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 39
+[02-Aug-2023 03:36:35 America/New_York] PHP Warning:  Undefined array key "kabu" in /home/bugerifg/apply.bugemauniv.ac.ug/db.php on line 40

@@ -1,0 +1,172 @@
+[23-Jun-2023 02:31:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:33:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:34:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:34:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:38:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:41:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:44:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:46:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:48:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 02:50:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[23-Jun-2023 03:02:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[23-Jun-2023 03:06:15 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[23-Jun-2023 03:14:40 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[23-Jun-2023 03:15:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 14
+[23-Jun-2023 04:41:43 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[24-Jun-2023 12:11:19 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[24-Jun-2023 12:21:42 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[25-Jun-2023 12:01:20 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[26-Jun-2023 03:56:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[26-Jun-2023 03:56:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[26-Jun-2023 04:27:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bugerifg/apply.bugemauniv.ac.ug/admin/login.php on line 32
+[26-Jun-2023 04:33:52 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 23
+[26-Jun-2023 04:35:03 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 23
+[26-Jun-2023 04:36:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 14
+[26-Jun-2023 04:36:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 23
+[26-Jun-2023 05:10:19 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[26-Jun-2023 05:49:57 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[26-Jun-2023 05:50:50 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[26-Jun-2023 06:03:34 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[26-Jun-2023 06:06:20 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[28-Jun-2023 06:04:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[04-Jul-2023 02:59:12 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[04-Jul-2023 03:01:35 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[04-Jul-2023 03:02:53 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[04-Jul-2023 03:05:49 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[04-Jul-2023 03:06:02 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[04-Jul-2023 03:06:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[04-Jul-2023 07:37:36 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[05-Jul-2023 07:39:51 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[06-Jul-2023 02:16:04 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[06-Jul-2023 14:46:21 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[07-Jul-2023 16:38:56 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[07-Jul-2023 16:39:25 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[10-Jul-2023 01:48:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[10-Jul-2023 01:48:36 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[10-Jul-2023 13:33:32 America/New_York] PHP Parse error:  syntax error, unexpected token "use" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/accept.php on line 24
+[10-Jul-2023 13:36:57 America/New_York] PHP Parse error:  syntax error, unexpected token "use" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/accept.php on line 26
+[10-Jul-2023 14:48:53 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 42
+[11-Jul-2023 03:04:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[11-Jul-2023 03:04:48 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[11-Jul-2023 08:32:49 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[11-Jul-2023 08:38:00 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[11-Jul-2023 10:15:12 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[12-Jul-2023 04:33:33 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 42
+[12-Jul-2023 04:36:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 22
+[12-Jul-2023 04:36:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 42
+[12-Jul-2023 08:27:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 22
+[12-Jul-2023 08:27:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 42
+[13-Jul-2023 05:51:29 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 42
+[13-Jul-2023 05:54:43 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[13-Jul-2023 06:05:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[13-Jul-2023 07:26:54 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[13-Jul-2023 07:47:20 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[13-Jul-2023 08:38:50 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 42
+[13-Jul-2023 10:36:22 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[14-Jul-2023 03:44:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[14-Jul-2023 04:17:59 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[14-Jul-2023 04:18:06 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[14-Jul-2023 04:57:16 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[17-Jul-2023 03:45:20 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 03:04:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 03:12:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 03:12:45 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[19-Jul-2023 03:13:08 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 03:13:18 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[19-Jul-2023 03:13:52 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 03:14:41 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 03:14:48 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[19-Jul-2023 03:21:22 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[19-Jul-2023 03:23:41 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 03:24:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 03:24:31 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 03:35:35 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 09:01:04 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 09:05:58 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 09:06:01 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 09:06:05 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[19-Jul-2023 09:06:07 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[19-Jul-2023 09:06:07 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[19-Jul-2023 09:06:08 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[19-Jul-2023 09:46:37 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[20-Jul-2023 03:59:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[20-Jul-2023 04:00:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[27-Jul-2023 08:19:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[27-Jul-2023 15:28:08 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[27-Jul-2023 15:28:20 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[27-Jul-2023 15:29:49 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[27-Jul-2023 15:30:01 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[27-Jul-2023 15:33:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[27-Jul-2023 15:33:31 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[27-Jul-2023 15:47:08 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[27-Jul-2023 15:47:19 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[27-Jul-2023 15:47:31 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[27-Jul-2023 15:48:12 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[27-Jul-2023 15:48:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[28-Jul-2023 02:37:30 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[28-Jul-2023 03:21:30 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[28-Jul-2023 04:06:35 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[28-Jul-2023 04:26:11 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[28-Jul-2023 04:28:02 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[28-Jul-2023 09:33:59 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[31-Jul-2023 04:38:00 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 42
+[31-Jul-2023 05:53:44 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[31-Jul-2023 05:55:23 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[31-Jul-2023 06:11:03 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 42
+[31-Jul-2023 09:11:37 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[31-Jul-2023 09:16:23 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[31-Jul-2023 09:17:51 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[31-Jul-2023 09:18:04 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[31-Jul-2023 09:18:41 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[01-Aug-2023 04:35:16 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
+[01-Aug-2023 05:01:01 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/bugerifg/apply.bugemauniv.ac.ug/admin/del_app.php on line 42
+[01-Aug-2023 09:44:32 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[02-Aug-2023 06:34:30 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[02-Aug-2023 06:38:57 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[02-Aug-2023 08:54:50 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[02-Aug-2023 08:54:52 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[02-Aug-2023 08:54:54 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_table.php on line 2
+[02-Aug-2023 09:02:03 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bugerifg/apply.bugemauniv.ac.ug/admin/acc_prov_table.php on line 2
