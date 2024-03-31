@@ -1,2 +1,2 @@
 # bugema-application
-A phpproject for online student applications for bugema university
+A php project for online student applications for bugema university
